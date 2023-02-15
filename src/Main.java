@@ -10,10 +10,7 @@ import java.util.stream.Stream;
 
 public class Main {
     public static void main(String[] args) {
-        Task1();
 
-        Task2 task2 = new Task2();
-        task2.main(args);
 
     }
 
