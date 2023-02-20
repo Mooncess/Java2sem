@@ -2,6 +2,8 @@ import task1.ComparatorUsage;
 import task2.Human;
 import task2.Task2;
 import task3.Task3;
+import task4.Task4;
+import task5.Task5;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -11,9 +13,14 @@ import java.util.stream.Stream;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
+        System.out.println("TASK 3");
         Task3.main();
 
+        System.out.println("TASK 4");
+        Task4.main();
 
+        System.out.println("TASK 5");
+        Task5.main();
 
     }
 
